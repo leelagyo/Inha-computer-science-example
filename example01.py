@@ -1,5 +1,3 @@
-실습 1
-
 #width=정수, height=실수, depth=실수
 
 width=100
